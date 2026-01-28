@@ -1,30 +1,30 @@
 🚀 AI-Powered Complaint Management System
 
-This project is a web-based application designed to automate the process of complaint handling using Artificial Intelligence. Users can submit complaints through a simple interface, and the system automatically analyzes and categorizes the complaints into different domains such as Water, Electricity, Road, and Garbage issues. The classified complaints are stored in a database and displayed on an admin dashboard for monitoring and decision-making.
+"This project is a web-based application designed to automate the process of complaint handling using Artificial Intelligence. Users can submit complaints through a simple interface, and the system automatically analyzes and categorizes the complaints into different domains such as Water, Electricity, Road, and Garbage issues. The classified complaints are stored in a database and displayed on an admin dashboard for monitoring and decision-making."
 
 ✨ Key Features
 
-User-friendly complaint submission interface
+1. User-friendly complaint submission interface
 
-AI-based complaint classification using NLP techniques
+2. AI-based complaint classification using NLP techniques
 
-Automatic solution recommendation for each complaint category
+3. Automatic solution recommendation for each complaint category
 
-SQLite database for persistent data storage
+4. SQLite database for persistent data storage
 
-Admin dashboard to view and manage complaints
+5. Admin dashboard to view and manage complaints
 
-Modern and responsive user interface
+6. Modern and responsive user interface
 
 🛠️ Tech Stack
 
-Backend: Python, Flask
+->Backend: Python, Flask
 
-Frontend: HTML, CSS
+->Frontend: HTML, CSS
 
-Database: SQLite
+->Database: SQLite
 
-AI/NLP: Rule-based text classification (extendable to ML models)
+->AI/NLP: Rule-based text classification (extendable to ML models)
 
 🧩 System Architecture
 
@@ -32,20 +32,20 @@ User → Web Interface → Flask Backend → AI Classification → SQLite Databa
 
 🎯 Use Cases
 
-Smart city complaint management
+1. Smart city complaint management
 
-College/hostel issue tracking
+2. College/hostel issue tracking
 
-Municipal service monitoring
+3. Municipal service monitoring
 
-Customer support automation
+4. Customer support automation
 
 🚀 Future Enhancements
 
-Integration of machine learning models for improved classification accuracy
+1. Integration of machine learning models for improved classification accuracy
 
-Admin authentication and role-based access
+2. Admin authentication and role-based access
 
-Real-time analytics and visualization of complaints
+3. Real-time analytics and visualization of complaints
 
-Cloud deployment and scalability
+4. Cloud deployment and scalability
